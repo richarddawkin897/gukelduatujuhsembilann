@@ -1,0 +1,4 @@
+baseURL = "https://bestfootballrey.vercel.app"
+languageCode = "en-us"
+title = "Top Football Manager"
+theme = "hugo-theme-minos"
